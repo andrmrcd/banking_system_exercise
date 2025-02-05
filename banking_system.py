@@ -245,7 +245,7 @@ def main():
         new_account.account_id
     )
     print(f"Account statement for account number {new_account.account_number}")
-    print(f"{transactions}")
+    print(transactions)
 
 
 if __name__ == "__main__":
